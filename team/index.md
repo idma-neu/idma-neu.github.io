@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}指导教师
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
@@ -14,7 +14,5 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}学生
 
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
-
-{% include section.html %}
 
 {% include grid.html style="square" content=content %}
