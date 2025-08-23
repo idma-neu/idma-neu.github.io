@@ -19,4 +19,4 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'master'" %}
 
-{% include section.html}
+{% include section.html %}
