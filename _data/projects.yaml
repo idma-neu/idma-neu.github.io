@@ -1,39 +1,9 @@
-- title: Cool Dataset
+- title: 2018.05-2021.04 国家重点研发计划课题：异构体系结构的分布式数据存储与管理（2018YFB1003404）                    
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+- title: 2015.01-2019.12 国家自然科学基金重点项目：大数据高效能存储与管理方法研究(61433008) 
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+- title: 2012.01-2016.12 国家973重点基础研究发展计划课题：高质量多模态海量数据获取与整合的理论和技术研究（2012CB316201） 
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: 国家自然科学基金面上项目：云计算环境下基于BSP模型的大规模图数据查询处理技术（61272179）  
+ 
+- title: 2012.10-2014.12 教育部-中国移动科研基金项目：基于云计算的BSP并行计算方案研究与实现（MCM20125021） 
