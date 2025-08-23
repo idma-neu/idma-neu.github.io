@@ -32,7 +32,7 @@ defaults:
       layout: post
   # markdown files in /_comm   
   - scope:
-      type: "comm"
+      type: "comms"
     values:
       layout: comm
 
