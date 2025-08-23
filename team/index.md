@@ -11,8 +11,12 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}优秀毕业生
 
-# {% include icon.html icon="fa-solid fa-users" %}学生
+# {% include icon.html icon="fa-solid fa-users" %}博士研究生
 
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+
+# {% include icon.html icon="fa-solid fa-users" %}硕士研究生
+
+{% include list.html data="members" component="portrait" filter="role == 'master'" %}
 
 {% include grid.html style="square" content=content %}
