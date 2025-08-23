@@ -11,7 +11,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+# {% include icon.html icon="fa-solid fa-users" %}优秀毕业生
 
 # {% include icon.html icon="fa-solid fa-users" %}学生
 
