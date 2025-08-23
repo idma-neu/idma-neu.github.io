@@ -1,13 +1,1 @@
-- title: LTPG: Large-Batch Transaction Processing on GPUs with Deterministic Concurrency Control
-  authors:
-    - Jianpeng Wei
-    - Yu Gu
-    - Tianyi Li
-    - Jianzhong Qi
-    - Chuanwen li
-    - Yanfeng Zhang
-    - Christian S. Jensen
-    - Ge Yu
-  publisher: IEEE
-  date: 2024-05-13
-  link: https://ieeexplore.ieee.org/document/10597948
+- id: doi: 10.1109/ICDE60146.2024.00296
