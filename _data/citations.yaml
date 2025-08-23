@@ -7,7 +7,7 @@
     - Yanfeng Zhang
     - Christian S. Jensen
     - Ge Yu
-  date: 2024-05-13
-  link: https://ieeexplore.ieee.org/document/10597948
-  publisher: IEEE
-  title: LTPG: Large-Batch Transaction Processing on GPUs with Deterministic Concurrency Control
+  date: '2024-05-13'
+  link: 'https://ieeexplore.ieee.org/document/10597948'
+  publisher: 'IEEE'
+  title: 'LTPG: Large-Batch Transaction Processing on GPUs with Deterministic Concurrency Control'
