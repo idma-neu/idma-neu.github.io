@@ -50,7 +50,23 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
-master:
+master2021:
+  icon: fa-solid fa-graduation-cap
+  description: Master student
+  
+master2022:
+  icon: fa-solid fa-graduation-cap
+  description: Master student
+
+master2023:
+  icon: fa-solid fa-graduation-cap
+  description: Master student
+
+master2024:
+  icon: fa-solid fa-graduation-cap
+  description: Master student
+
+master2025:
   icon: fa-solid fa-graduation-cap
   description: Master student
 
