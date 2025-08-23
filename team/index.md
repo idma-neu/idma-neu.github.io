@@ -15,4 +15,6 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 
+{% include section.html %}
+
 {% include grid.html style="square" content=content %}
