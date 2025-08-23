@@ -13,7 +13,16 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}博士研究生
 
-{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd2020'" %}
+
+{% include list.html data="members" component="portrait" filter="role == 'phd2022'" %}
+
+{% include list.html data="members" component="portrait" filter="role == 'phd2023'" %}
+
+{% include list.html data="members" component="portrait" filter="role == 'phd2024'" %}
+
+{% include list.html data="members" component="portrait" filter="role == 'phd2025'" %}
+
 
 # {% include icon.html icon="fa-solid fa-users" %}硕士研究生
 
