@@ -34,6 +34,11 @@ defaults:
       type: "posts"
     values:
       layout: post
+  # markdown files in /_comm   
+  - scope:
+      type: "comm"
+    values:
+      layout: comm
 
 collections:
   # generate page for each member
@@ -41,6 +46,8 @@ collections:
     output: false
   # generate page for each post
   posts:
+    output: false
+  comms:
     output: false
 
 # jekyll plugins
