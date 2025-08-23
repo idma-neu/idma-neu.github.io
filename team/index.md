@@ -26,6 +26,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}硕士研究生
 
-{% include list.html data="members" component="portrait" filter="role == 'master'" %}
+{% include list.html data="members" component="portrait" filter="role == 'master2023'" %}
+
+{% include list.html data="members" component="portrait" filter="role == 'master2024'" %}
+
+{% include list.html data="members" component="portrait" filter="role == 'master2025'" %}
 
 {% include section.html %}
