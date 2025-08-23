@@ -18,7 +18,7 @@ errors = []
 warnings = []
 
 # output citations file
-output_file = "_data/citations.yaml"
+output_file = "_data/mycitations.yaml"
 
 
 log()
