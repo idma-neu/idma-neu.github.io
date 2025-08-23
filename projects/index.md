@@ -2,7 +2,7 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Fundings and Research support
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}项目资助
