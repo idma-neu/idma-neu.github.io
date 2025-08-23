@@ -15,10 +15,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}学生
 
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
-
-{% include section.html background="images/background.jpg" dark=true %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 
 {% include grid.html style="square" content=content %}
