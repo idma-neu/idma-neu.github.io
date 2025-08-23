@@ -9,11 +9,35 @@ principal-investigator:
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
-  
-phd:
+
+phd2019:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+phd2020:
+  icon: fa-solid fa-graduation-cap
+  description: PhD Student
+
+phd2021:
+  icon: fa-solid fa-graduation-cap
+  description: PhD Student
+
+phd2022:
+  icon: fa-solid fa-graduation-cap
+  description: PhD Student
+
+phd2023:
+  icon: fa-solid fa-graduation-cap
+  description: PhD Student
+
+phd2024:
+  icon: fa-solid fa-graduation-cap
+  description: PhD Student
+  
+phd2025:
+  icon: fa-solid fa-graduation-cap
+  description: PhD Student
+  
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
