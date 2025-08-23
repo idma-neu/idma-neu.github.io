@@ -1,10 +1,3 @@
 ---
-title: Example post 1
-author: sarah-johnson
-tags:
-  - biology
-  - medicine
-  - big data
+title: 2018首批辽宁省“兴辽英才计划”青年拔尖人才，谷峪
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
