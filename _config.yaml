@@ -8,12 +8,8 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@idma-neu.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: guyu@mail.neu.edu.cn
   github: idma-neu
-  twitter: idma-neu
-  youtube: idma-neu
 
 ### jekyll settings
 
@@ -47,6 +43,7 @@ collections:
   # generate page for each post
   posts:
     output: false
+  # generate page for each coomunication
   comms:
     output: false
 
