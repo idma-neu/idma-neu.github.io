@@ -1,9 +1,168 @@
 - authors:
+    - Zhen Song
+    - Yu Gu
+    - Tianyi Li
+    - Yushuai Li
+    - Qing Sun
+    - Yanfeng Zhang
+    - Christian S. Jensen
+    - Ge Yu
+  date: '2025-06-18'
+  link: 'https://dl.acm.org/doi/10.1145/3725360'
+  publisher: 'ACM'
+  title: 'SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training'
+- authors:
+    - Zhenbo Fu
+    - Xin Ai
+    - Qiange Wang
+    - Yanfeng Zhang
+    - Shizhan Lu
+    - Chaoyi Chen
+    - Chunyu Cao
+    - Hao Yuan
+    - Zhewei Wei
+    - Yu Gu
+    - Yingyou Wen
+    - Ge Yu
+  date: '2025-02-01'
+  link: 'https://www.vldb.org/pvldb/vol18/p1705-fu.pdf'
+  publisher: 'VLDB Endowment'
+  title: 'NeutronTask: Scalable and Efficient Multi-GPU GNN Training with Task Parallelism'
+- authors:
+    - Jie Song
+    - Sijia Zhang
+    - Pengyi Zhang
+    - Junghoon Park
+    - Yu Gu
+    - Ge Yu
+  date: '2025-01-01'
+  link: 'https://ieeexplore.ieee.org/document/10802923'
+  publisher: 'IEEE'
+  title: 'Illicit Social Accounts? Anti-Money Laundering for Transactional Blockchains'
+- authors:
+    - Xinze Li
+    - Hanbin Wang
+    - Zhenghao Liu
+    - Shi Yu
+    - Shuo Wang
+    - Yukun Yan
+    - Yukai Fu
+    - Yu Gu
+    - Ge Yu
+  date: '2025-01-17'
+  link: 'https://dl.acm.org/doi/10.1145/3695868'
+  publisher: 'ACM'
+  title: 'Building a Coding Assistant via the Retrieval-Augmented Language Model'
+- authors:
+    - Heng Rao
+    - Yu Gu
+    - Jason Zipeng Zhang
+    - Ge Yu
+    - Yang Cao
+    - Minghan Chen
+  date: '2025-08-05'
+  link: 'https://dl.acm.org/doi/abs/10.1609/aaai.v39i25.34920'
+  publisher: 'AAAI Press'
+  title: 'Hierarchical Gradient-Based Genetic Sampling for Accurate Prediction of Biological Oscillations'
+- authors:
+    - Weiqing Yang
+    - Hanbin Wang
+    - Zhenghao Liu
+    - Xinze Li
+    - Yukun Yan
+    - Shuo Wang
+    - Yu Gu
+    - Minghe Yu
+    - Zhiyuan Liu
+    - Ge Yu
+  date: '2025-04-25'
+  link: 'https://aclanthology.org/2025.findings-naacl.139/'
+  publisher: 'ACL'
+  title: 'COAST: Enhancing the Code Debugging Ability of LLMs through Communicative Agent Based Data Synthesis'
+- authors:
+    - Qiushi Xiong
+    - Zhipeng Xu
+    - Zhenghao Liu
+    - Mengjia Wang
+    - Zulong Chen
+    - Yue Sun
+    - Yu Gu
+    - Xiaohua Li
+    - Ge Yu
+  date: '2025-07-13'
+  link: 'https://dl.acm.org/doi/abs/10.1145/3726302.3729970'
+  publisher: 'ACM'
+  title: 'Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph'
+- authors:
+    - Hao Yuan
+    - Yajiong Liu
+    - Yanfeng Zhang
+    - Xin Ai
+    - Qiange Wang
+    - Chaoyi Chen
+    - Yu Gu
+    - Ge Yu
+  date: '2024-02-01'
+  link: 'https://dl.acm.org/doi/abs/10.14778/3648160.3648167'
+  publisher: 'VLDB Endowment'
+  title: 'Comprehensive Evaluation of GNN Training Systems: A Data Management Perspective'
+- authors:
+    - Xin Ai
+    - Qiange Wang
+    - Chunyu Cao
+    - Yanfeng Zhang
+    - Chaoyi Chen
+    - Hao Yuan
+    - Yu Gu
+    - Ge Yu
+  date: '2024-08-01'
+  link: 'https://dl.acm.org/doi/abs/10.14778/3659437.3659453'
+  publisher: 'VLDB Endowment'
+  title: 'NeutronOrch: Rethinking Sample-based GNN Training under CPU-GPU Heterogeneous Environments'
+- authors:
+    - Zhen Song
+    - Yu Gu
+    - Qing Sun
+    - Tianyi Li
+    - Yanfeng Zhang
+    - Yushuai Li
+    - Christian S. Jensen
+    - Ge Yu
+  date: '2024-07-01'
+  link: 'https://dl.acm.org/doi/abs/10.14778/3681954.3682008'
+  publisher: 'VLDB Endowment'
+  title: 'DynaHB: A Communication-Avoiding Asynchronous Distributed Framework with Hybrid Batches for Dynamic GNN Training'
+- authors:
+    - Yumeng Song
+    - Yu Gu
+    - Tianyi Li
+    - Jianzhong Qi
+    - Zhenghao Liu
+    - Christian S. Jensen
+    - Ge Yu
+  date: '2024-03-22'
+  link: 'https://ieeexplore.ieee.org/document/10478209'
+  publisher: 'IEEE'
+  title: 'CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network'
+- authors:
+    - Tianshuo Zhou
+    - Sen Mei
+    - Xinze Li
+    - Zhenghao Liu
+    - Chenyan Xiong
+    - Zhiyuan Liu
+    - Yu Gu
+    - Ge Yu
+  date: '2024-08-11'
+  link: 'https://aclanthology.org/2024.acl-long.783/'
+  publisher: 'ACL'
+  title: 'MARVEL: Unlocking the Multi-Modal Capability of Dense Retrieval via Visual Module Plugin'
+- authors:
     - Jianpeng Wei
     - Yu Gu
     - Tianyi Li
     - Jianzhong Qi
-    - Chuanwen li
+    - Chuanwen Li
     - Yanfeng Zhang
     - Christian S. Jensen
     - Ge Yu
@@ -11,3 +170,379 @@
   link: 'https://ieeexplore.ieee.org/document/10597948'
   publisher: 'IEEE'
   title: 'LTPG: Large-Batch Transaction Processing on GPUs with Deterministic Concurrency Control'
+- authors:
+    - Na Guo
+    - Yaqi Wang
+    - Wenli Sun
+    - Yu Gu
+    - Jianzhong Qi
+    - Zhenghao Liu
+    - Xiufeng Xia
+    - Ge Yu
+  date: '2024-05-13'
+  link: 'https://ieeexplore.ieee.org/document/10597777'
+  publisher: 'IEEE'
+  title: 'Chameleon: Towards Update-Efficient Learned Indexing for Locally Skewed Data'
+- authors:
+    - Yishu Wang
+    - Jinlong Chu
+    - Ye Yuan
+    - Yu Gu
+    - Hangxu Ji
+    - Hao Zhang
+  date: '2024-05-13'
+  link: 'https://ieeexplore.ieee.org/document/10597956'
+  publisher: 'IEEE'
+  title: 'Label Constrained Reachability Queries on Time Dependent Graphs'
+- authors:
+    - Zhenghao Liu
+    - Zulong Chen
+    - Moufeng Zhang
+    - Shaoyang Duan
+    - Hong Wen
+    - Liangyue Li
+    - Nan Li
+    - Yu Gu
+    - Ge Yu
+  date: '2024-05-13'
+  link: 'https://dl.acm.org/doi/abs/10.1145/3589335.3648305'
+  publisher: 'ACM'
+  title: 'Modeling User Viewing Flow using Large Language Models for Article Recommendation'
+- authors:
+    - Zhen Song
+    - Yu Gu
+    - Tianyi Li
+    - Qing Sun
+    - Yanfeng Zhang
+    - Christian S. Jensen
+    - Ge Yu
+  date: '2023-12-12'
+  link: 'https://dl.acm.org/doi/10.1145/3626716'
+  publisher: 'ACM'
+  title: 'ADGNN: Towards Scalable GNN Training with Aggregation-Difference Aware Sampling'
+- authors:
+    - Chaoyi Chen
+    - Dechao Gao
+    - Yanfeng Zhang
+    - Qiange Wang
+    - Zhenbo Fu
+    - Xuecang Zhang
+    - Junhua Zhu
+    - Yu Gu
+    - Ge Yu
+  date: '2023-11-01'
+  link: 'https://dl.acm.org/doi/abs/10.14778/3632093.3632108'
+  publisher: 'VLDB Endowment'
+  title: 'NeutronStream: A Dynamic GNN Training Framework with Sliding Window for Graph Streams'
+- authors:
+    - Yuhang Su
+    - Yu Gu
+    - Zhigang Wang
+    - Ying Zhang
+    - Jianbin Qin
+    - Ge Yu
+  date: '2023-06-01'
+  link: 'https://ieeexplore.ieee.org/document/9739081'
+  publisher: 'IEEE'
+  title: 'Efficient Subhypergraph Matching Based on Hyperedge Features'
+- authors:
+    - Zhigang Wang
+    - Yilei Tu
+    - Ning Wang
+    - Lixin Gao
+    - Jie Nie
+    - Zhiqiang Wei
+    - Yu Gu
+    - Ge Yu
+  date: '2023-02-01'
+  link: 'https://ieeexplore.ieee.org/abstract/document/9983509'
+  publisher: 'IEEE'
+  title: 'FSP: Towards Flexible Synchronous Parallel Frameworks for Distributed Machine Learning'
+- authors:
+    - Xinze Li
+    - Zhenghao Liu
+    - Chenyan Xiong
+    - Shi Yu
+    - Yu Gu
+    - Zhiyuan Liu
+    - Ge Yu
+  date: '2023-07-09'
+  link: 'https://aclanthology.org/2023.findings-acl.734/'
+  publisher: 'ACL'
+  title: 'Structure-Aware Language Model Pretraining Improves Dense Retrieval on Structured Data'
+- authors:
+    - Ning Wang
+    - Yaohua Wang
+    - Zhigang Wang
+    - Jie Nie
+    - Zhiqiang Wei
+    - Peng Tang
+    - Yu Gu
+    - Ge Yu
+  date: '2023-04-03'
+  link: 'https://ieeexplore.ieee.org/document/10184834'
+  publisher: 'IEEE'
+  title: 'PrivNUD: Effective Range Query Processing under Local Differential Privacy'
+- authors:
+    - Yang Song
+    - Yu Gu
+    - Rui Zhang
+    - Ge Yu
+  date: '2023-04-03'
+  link: 'https://ieeexplore.ieee.org/document/10184588'
+  publisher: 'IEEE'
+  title: 'BrePartition: Optimized High-Dimensional kNN Search with Bregman Distances (Extended Abstract)'
+- authors:
+    - Jia Xu
+    - Wanjie Tao
+    - Zulong Chen
+    - Jin Huang
+    - Huihui Liu
+    - Hong Wen
+    - Shenghua Ni
+    - Qun Dai
+    - Yu Gu
+  date: '2023-08-04'
+  link: 'https://dl.acm.org/doi/10.1145/3580305.3599887'
+  publisher: 'ACM'
+  title: 'PlanRanker: Towards Personalized Ranking of Train Transfer Plans'
+- authors:
+    - Yang Song
+    - Yu Gu
+    - Rui Zhang
+    - Ge Yu
+  date: '2022-03-01'
+  link: 'https://ieeexplore.ieee.org/document/9086806'
+  publisher: 'IEEE'
+  title: 'BrePartition: Optimized High-Dimensional kNN Search With Bregman Distances'
+- authors:
+    - Yu Gu
+    - Kaiqiang Yu
+    - Zhen Song
+    - Jianzhong Qi
+    - Zhigang Wang
+    - Ge Yu
+    - Rui Zhang
+  date: '2022-07-01'
+  link: 'https://ieeexplore.ieee.org/document/9187569'
+  publisher: 'IEEE'
+  title: 'Distributed Hypergraph Processing Using Intersection Graphs'
+- authors:
+    - Zhen Song
+    - Yu Gu
+    - Jianzhong Qi
+    - Zhigang Wang
+    - Ge Yu
+  date: '2022-05-09'
+  link: 'https://ieeexplore.ieee.org/document/9835576'
+  publisher: 'IEEE'
+  title: 'EC-Graph: A Distributed Graph Neural Network System with Error-Compensated Compression'
+- authors:
+    - Yang Song
+    - Yu Gu
+    - Rui Zhang
+    - Ge Yu
+  date: '2022-03-01'
+  link: 'https://ieeexplore.ieee.org/document/9086806'
+  publisher: 'IEEE'
+  title: 'BrePartition: Optimized High-Dimensional kNN Search with Bregman Distances'
+- authors:
+    - Yang Song
+    - Yu Gu
+    - Rui Zhang
+    - Ge Yu
+  date: '2021-04-19'
+  link: 'https://ieeexplore.ieee.org/document/9458729'
+  publisher: 'IEEE'
+  title: 'ProMIPS: Efficient High-Dimensional c-Approximate Maximum Inner Product Search with a Lightweight Index'
+- authors:
+    - Zhigang Wang
+    - Yu Gu
+    - Yubin Bao
+    - Ge Yu
+    - Jeffrey Xu Yu
+    - Zhiqiang Wei
+  date: '2021-05-01'
+  link: 'https://ieeexplore.ieee.org/abstract/document/8890918'
+  publisher: 'IEEE'
+  title: 'HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling'
+- authors:
+    - Hongfei Xu
+    - Yu Gu
+    - Yu Sun
+    - Jianzhong Qi
+    - Ge Yu
+    - Rui Zhang
+  date: '2020-08-01'
+  link: 'https://link.springer.com/article/10.1007/s00778-019-00583-8'
+  publisher: 'Springer'
+  title: 'Efficient Processing of Moving Collective Spatial Keyword Queries'
+- authors:
+    - Qian Ma
+    - Yu Gu
+    - Wang-Chien Lee
+    - Ge Yu
+  date: '2019-04-08'
+  link: 'https://ieeexplore.ieee.org/document/8731477'
+  publisher: 'IEEE'
+  title: 'Order-Sensitive Imputation for Clustered Missing Values'
+- authors:
+    - Qian Ma
+    - Yu Gu
+    - Wang-Chien Lee
+    - Ge Yu
+  date: '2019-01-01'
+  link: 'https://ieeexplore.ieee.org/document/8330055'
+  publisher: 'IEEE'
+  title: 'Order-Sensitive Imputation for Clustered Missing Values'  
+- authors:
+    - Yu Gu
+    - Yandan Guo
+    - Yang Song
+    - Xiangmin Zhou
+    - Ge Yu
+  date: '2018-11-01'
+  link: 'https://ieeexplore.ieee.org/document/8307089'
+  publisher: 'IEEE'
+  title: 'Approximate Order-Sensitive k-NN Queries over Correlated High-Dimensional Data'
+- authors:
+    - Zhigang Wang
+    - Lixin Gao
+    - Yu Gu
+    - Yubin Bao
+    - Ge Yu
+  date: '2018-08-01'
+  link: 'https://ieeexplore.ieee.org/document/8300647'
+  publisher: 'IEEE'
+  title: 'A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments'
+- authors:
+    - Chuanwen Li
+    - Yu Gu
+    - Jianzhong Qi
+    - Jiayuan He
+    - Qingxu Deng
+  date: '2018-04-16'
+  link: 'https://ieeexplore.ieee.org/document/8509305'
+  publisher: 'IEEE'
+  title: 'A GPU Accelerated Update Efficient Index for kNN Queries in Road Networks'
+- authors:
+    - Ning Wang
+    - Xiaokui Xiao
+    - Yin Yang
+    - Zhenjie Zhang
+    - Yu Gu
+    - Ge Yu
+  date: '2017-04-19'
+  link: 'https://ieeexplore.ieee.org/document/7930027'
+  publisher: 'IEEE'
+  title: 'PrivSuper: a Superset-First Approach to Frequent Itemset Mining under Differential Privacy'
+- authors:
+    - Yu Gu
+    - Guanli Liu
+    - Jianzhong Qi
+    - Hongfei Xu
+    - Ge Yu
+    - Rui Zhang
+  date: '2017-08-19'
+  link: 'https://ieeexplore.ieee.org/document/7929918'
+  publisher: 'IEEE'
+  title: 'The Moving k Diversified Nearest Neighbor Query'
+- authors:
+    - Zhigang Wang
+    - Yu Gu
+    - Yubin Bao
+    - Ge Yu
+    - Jeffrey Xu Yu
+  date: '2016-06-14'
+  link: 'https://dl.acm.org/doi/10.1145/2882903.2882938'
+  publisher: 'ACM'
+  title: 'Hybrid Pulling/Pushing for I/O-Efficient Distributed and Iterative Graph Computing'
+- authors:
+    - Yu Gu
+    - Guanli Liu
+    - Jianzhong Qi
+    - Hongfei Xu
+    - Ge Yu
+    - Rui Zhang
+  date: '2016-08-01'
+  link: 'https://ieeexplore.ieee.org/document/7517340'
+  publisher: 'IEEE'
+  title: 'The Moving k Diversified Nearest Neighbor Query'
+- authors:
+    - Chuanwen Li
+    - Yu Gu
+    - Jianzhong Qi
+    - Ge Yu
+    - Rui Zhang
+    - Qingxu Deng
+  date: '2016-05-16'
+  link: 'https://ieeexplore.ieee.org/document/7498339'
+  publisher: 'IEEE'
+  title: 'INSQ: An Influential Neighbor Set Based Moving kNN Query Processing System'
+- authors:
+    - Jia Xu
+    - Bin Lei
+    - Yu Gu
+    - Marianne Winslett
+    - Ge Yu
+    - Zhenjie Zhang
+  date: '2016-05-16'
+  link: 'https://ieeexplore.ieee.org/document/7498372'
+  publisher: 'IEEE'
+  title: 'Efficient Similarity Join Based on Earth Mover’s Distance Using MapReduce'
+- authors:
+    - Jia Xu
+    - Bin Lei
+    - Yu Gu
+    - Marianne Winslett
+    - Ge Yu
+    - Zhenjie Zhang
+  date: '2015-08-01'
+  link: 'https://ieeexplore.ieee.org/document/7056549'
+  publisher: 'IEEE'
+  title: 'Efficient Similarity Join Based on Earth Mover’s Distance Using MapReduce'
+- authors:
+    - Chuanwen Li
+    - Yu Gu
+    - Jianzhong Qi
+    - Ge Yu
+    - Rui Zhang
+    - Wang Yi
+  date: '2014-10-01'
+  link: 'https://dl.acm.org/doi/abs/10.14778/2735471.2735473'
+  publisher: 'VLDB Endowment'
+  title: 'Processing Moving kNN Queries Using Influential Neighbor Sets'
+- authors:
+    - Yu Gu
+    - Chunpeng Gao
+    - Gao Cong
+    - Ge Yu
+  date: '2014-05-01'
+  link: 'https://ieeexplore.ieee.org/document/6570474'
+  publisher: 'IEEE'
+  title: 'Effective and Efficient Clustering Methods for Correlated Probabilistic Graphs'
+- authors:
+    - Chuanfei Xu
+    - Yu Gu
+    - Lei Chen
+    - Jianzhong Qiao
+    - Ge Yu
+  date: '2013-04-08'
+  link: 'https://ieeexplore.ieee.org/document/6544823'
+  publisher: 'IEEE'
+  title: 'Interval Reverse Nearest Neighbor Queries on Uncertain Data with Markov Correlations'
+- authors:
+    - Jia Xu
+    - Qiushi Bai
+    - Yu Gu
+    - Anthony K. H. Tung
+    - Guoren Wang
+    - Ge Yu
+    - Zhenjie Zhang
+  date: '2012-04-01'
+  link: 'https://ieeexplore.ieee.org/abstract/document/6228176'
+  publisher: 'IEEE'
+  title: 'EUDEMON: A System for Online Video Frame Copy Detection by Earth Mover''s Distance'
+
+
+
