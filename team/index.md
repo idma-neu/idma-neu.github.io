@@ -18,3 +18,5 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}硕士研究生
 
 {% include list.html data="members" component="portrait" filter="role == 'master'" %}
+
+{% include section.html}
