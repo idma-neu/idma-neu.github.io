@@ -65,21 +65,6 @@
   publisher: 'AAAI'
   title: 'Hierarchical Gradient-Based Genetic Sampling for Accurate Prediction of Biological Oscillations'
 - authors:
-    - Weiqing Yang
-    - Hanbin Wang
-    - Zhenghao Liu
-    - Xinze Li
-    - Yukun Yan
-    - Shuo Wang
-    - Yu Gu
-    - Minghe Yu
-    - Zhiyuan Liu
-    - Ge Yu
-  date: '2025-04-25'
-  link: 'https://aclanthology.org/2025.findings-naacl.139/'
-  publisher: 'NAACL-HLT'
-  title: 'COAST: Enhancing the Code Debugging Ability of LLMs through Communicative Agent Based Data Synthesis'
-- authors:
     - Qiushi Xiong
     - Zhipeng Xu
     - Zhenghao Liu
