@@ -10,12 +10,13 @@
 {% assign type = site.data.types[member.role] %}
 
 <div class="portrait-wrapper">
-  {% assign home_page = member.["home-page"] %}
+  <!-- {% assign home_page = member.["home-page"] %}
   {% unless home_page %}
     {% assign home_page = member.home-page %}
-  {% endunless %}
+  {% endunless %} -->
+  {% assign home_page = member.home-page %}
   <!-- DEBUG: member.name = {{ member.name }} -->
-  <!-- DEBUG: home_page = {{ home_page }} -->
+  DEBUG: home_page = {{ home_page }}
   <!-- DEBUG: member.links = {{ member.links | jsonify }} -->
   <a
     {% if home_page %}
