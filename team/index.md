@@ -1,5 +1,5 @@
 ---
-title: Team
+title: 团队介绍
 nav:
   order: 3
   tooltip: About our team
