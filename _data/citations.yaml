@@ -7,7 +7,7 @@
     - Yanfeng Zhang
     - Christian S. Jensen
     - Ge Yu
-  date: '2025'
+  year: '2025'
   link: 'https://dl.acm.org/doi/10.1145/3725360'
   publisher: 'SIGMOD'
   title: 'SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training'
