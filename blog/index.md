@@ -1,8 +1,8 @@
 ---
-title: Award
+title: 获得奖项
 nav:
   order: 4
-  tooltip: Award
+  tooltip: 获得奖项
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}获得奖项
