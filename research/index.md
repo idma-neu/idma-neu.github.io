@@ -5,7 +5,7 @@ nav:
   tooltip: 已发表的论文
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}已发表的论文（CCF-A）
 
 {% include section.html %}
 
