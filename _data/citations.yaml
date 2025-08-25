@@ -9,7 +9,7 @@
     - Ge Yu
   date: '2025-06-18'
   link: 'https://dl.acm.org/doi/10.1145/3725360'
-  publisher: 'ACM'
+  publisher: 'SIGMOD'
   title: 'SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training'
 - authors:
     - Zhenbo Fu
@@ -26,7 +26,7 @@
     - Ge Yu
   date: '2025-02-01'
   link: 'https://www.vldb.org/pvldb/vol18/p1705-fu.pdf'
-  publisher: 'VLDB Endowment'
+  publisher: 'Proc. VLDB Endow.'
   title: 'NeutronTask: Scalable and Efficient Multi-GPU GNN Training with Task Parallelism'
 - authors:
     - Jie Song
@@ -37,7 +37,7 @@
     - Ge Yu
   date: '2025-01-01'
   link: 'https://ieeexplore.ieee.org/document/10802923'
-  publisher: 'IEEE'
+  publisher: 'IEEE Trans. Inf. Forensics Secur.'
   title: 'Illicit Social Accounts? Anti-Money Laundering for Transactional Blockchains'
 - authors:
     - Xinze Li
@@ -51,7 +51,7 @@
     - Ge Yu
   date: '2025-01-17'
   link: 'https://dl.acm.org/doi/10.1145/3695868'
-  publisher: 'ACM'
+  publisher: 'ACM Trans. Inf. Syst.'
   title: 'Building a Coding Assistant via the Retrieval-Augmented Language Model'
 - authors:
     - Heng Rao
@@ -62,7 +62,7 @@
     - Minghan Chen
   date: '2025-08-05'
   link: 'https://dl.acm.org/doi/abs/10.1609/aaai.v39i25.34920'
-  publisher: 'AAAI Press'
+  publisher: 'AAAI'
   title: 'Hierarchical Gradient-Based Genetic Sampling for Accurate Prediction of Biological Oscillations'
 - authors:
     - Weiqing Yang
@@ -77,7 +77,7 @@
     - Ge Yu
   date: '2025-04-25'
   link: 'https://aclanthology.org/2025.findings-naacl.139/'
-  publisher: 'ACL'
+  publisher: 'NAACL-HLT'
   title: 'COAST: Enhancing the Code Debugging Ability of LLMs through Communicative Agent Based Data Synthesis'
 - authors:
     - Qiushi Xiong
@@ -91,7 +91,7 @@
     - Ge Yu
   date: '2025-07-13'
   link: 'https://dl.acm.org/doi/abs/10.1145/3726302.3729970'
-  publisher: 'ACM'
+  publisher: 'SIGIR'
   title: 'Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph'
 - authors:
     - Hao Yuan
@@ -104,7 +104,7 @@
     - Ge Yu
   date: '2024-02-01'
   link: 'https://dl.acm.org/doi/abs/10.14778/3648160.3648167'
-  publisher: 'VLDB Endowment'
+  publisher: 'Proc. VLDB Endow.'
   title: 'Comprehensive Evaluation of GNN Training Systems: A Data Management Perspective'
 - authors:
     - Xin Ai
@@ -117,7 +117,7 @@
     - Ge Yu
   date: '2024-08-01'
   link: 'https://dl.acm.org/doi/abs/10.14778/3659437.3659453'
-  publisher: 'VLDB Endowment'
+  publisher: 'Proc. VLDB Endow.'
   title: 'NeutronOrch: Rethinking Sample-based GNN Training under CPU-GPU Heterogeneous Environments'
 - authors:
     - Zhen Song
@@ -130,7 +130,7 @@
     - Ge Yu
   date: '2024-07-01'
   link: 'https://dl.acm.org/doi/abs/10.14778/3681954.3682008'
-  publisher: 'VLDB Endowment'
+  publisher: 'Proc. VLDB Endow.'
   title: 'DynaHB: A Communication-Avoiding Asynchronous Distributed Framework with Hybrid Batches for Dynamic GNN Training'
 - authors:
     - Yumeng Song
@@ -142,7 +142,7 @@
     - Ge Yu
   date: '2024-03-22'
   link: 'https://ieeexplore.ieee.org/document/10478209'
-  publisher: 'IEEE'
+  publisher: 'IEEE Trans. Knowl. Data Eng.'
   title: 'CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network'
 - authors:
     - Tianshuo Zhou
@@ -168,7 +168,7 @@
     - Ge Yu
   date: '2024-05-13'
   link: 'https://ieeexplore.ieee.org/document/10597948'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'LTPG: Large-Batch Transaction Processing on GPUs with Deterministic Concurrency Control'
 - authors:
     - Na Guo
@@ -181,7 +181,7 @@
     - Ge Yu
   date: '2024-05-13'
   link: 'https://ieeexplore.ieee.org/document/10597777'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'Chameleon: Towards Update-Efficient Learned Indexing for Locally Skewed Data'
 - authors:
     - Yishu Wang
@@ -192,7 +192,7 @@
     - Hao Zhang
   date: '2024-05-13'
   link: 'https://ieeexplore.ieee.org/document/10597956'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'Label Constrained Reachability Queries on Time Dependent Graphs'
 - authors:
     - Zhenghao Liu
@@ -206,7 +206,7 @@
     - Ge Yu
   date: '2024-05-13'
   link: 'https://dl.acm.org/doi/abs/10.1145/3589335.3648305'
-  publisher: 'ACM'
+  publisher: ' WWW'
   title: 'Modeling User Viewing Flow using Large Language Models for Article Recommendation'
 - authors:
     - Zhen Song
@@ -218,7 +218,7 @@
     - Ge Yu
   date: '2023-12-12'
   link: 'https://dl.acm.org/doi/10.1145/3626716'
-  publisher: 'ACM'
+  publisher: 'SIGMOD'
   title: 'ADGNN: Towards Scalable GNN Training with Aggregation-Difference Aware Sampling'
 - authors:
     - Chaoyi Chen
@@ -232,7 +232,7 @@
     - Ge Yu
   date: '2023-11-01'
   link: 'https://dl.acm.org/doi/abs/10.14778/3632093.3632108'
-  publisher: 'VLDB Endowment'
+  publisher: 'Proc. VLDB Endow.'
   title: 'NeutronStream: A Dynamic GNN Training Framework with Sliding Window for Graph Streams'
 - authors:
     - Yuhang Su
@@ -243,7 +243,7 @@
     - Ge Yu
   date: '2023-06-01'
   link: 'https://ieeexplore.ieee.org/document/9739081'
-  publisher: 'IEEE'
+  publisher: 'IEEE Trans. Knowl. Data Eng.'
   title: 'Efficient Subhypergraph Matching Based on Hyperedge Features'
 - authors:
     - Zhigang Wang
@@ -256,7 +256,7 @@
     - Ge Yu
   date: '2023-02-01'
   link: 'https://ieeexplore.ieee.org/abstract/document/9983509'
-  publisher: 'IEEE'
+  publisher: 'IEEE Trans. Parallel Distributed Syst.'
   title: 'FSP: Towards Flexible Synchronous Parallel Frameworks for Distributed Machine Learning'
 - authors:
     - Xinze Li
@@ -281,7 +281,7 @@
     - Ge Yu
   date: '2023-04-03'
   link: 'https://ieeexplore.ieee.org/document/10184834'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'PrivNUD: Effective Range Query Processing under Local Differential Privacy'
 - authors:
     - Yang Song
@@ -290,7 +290,7 @@
     - Ge Yu
   date: '2023-04-03'
   link: 'https://ieeexplore.ieee.org/document/10184588'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'BrePartition: Optimized High-Dimensional kNN Search with Bregman Distances (Extended Abstract)'
 - authors:
     - Jia Xu
@@ -304,7 +304,7 @@
     - Yu Gu
   date: '2023-08-04'
   link: 'https://dl.acm.org/doi/10.1145/3580305.3599887'
-  publisher: 'ACM'
+  publisher: 'KDD'
   title: 'PlanRanker: Towards Personalized Ranking of Train Transfer Plans'
 - authors:
     - Yang Song
@@ -313,7 +313,7 @@
     - Ge Yu
   date: '2022-03-01'
   link: 'https://ieeexplore.ieee.org/document/9086806'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'BrePartition: Optimized High-Dimensional kNN Search With Bregman Distances'
 - authors:
     - Yu Gu
@@ -325,7 +325,7 @@
     - Rui Zhang
   date: '2022-07-01'
   link: 'https://ieeexplore.ieee.org/document/9187569'
-  publisher: 'IEEE'
+  publisher: 'IEEE Trans. Knowl. Data Eng.'
   title: 'Distributed Hypergraph Processing Using Intersection Graphs'
 - authors:
     - Zhen Song
@@ -335,7 +335,7 @@
     - Ge Yu
   date: '2022-05-09'
   link: 'https://ieeexplore.ieee.org/document/9835576'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'EC-Graph: A Distributed Graph Neural Network System with Error-Compensated Compression'
 - authors:
     - Yang Song
@@ -344,7 +344,7 @@
     - Ge Yu
   date: '2022-03-01'
   link: 'https://ieeexplore.ieee.org/document/9086806'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'BrePartition: Optimized High-Dimensional kNN Search with Bregman Distances'
 - authors:
     - Yang Song
@@ -353,7 +353,7 @@
     - Ge Yu
   date: '2021-04-19'
   link: 'https://ieeexplore.ieee.org/document/9458729'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'ProMIPS: Efficient High-Dimensional c-Approximate Maximum Inner Product Search with a Lightweight Index'
 - authors:
     - Zhigang Wang
@@ -364,7 +364,7 @@
     - Zhiqiang Wei
   date: '2021-05-01'
   link: 'https://ieeexplore.ieee.org/abstract/document/8890918'
-  publisher: 'IEEE'
+  publisher: 'IEEE Trans. Knowl. Data Eng.'
   title: 'HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling'
 - authors:
     - Hongfei Xu
@@ -375,7 +375,7 @@
     - Rui Zhang
   date: '2020-08-01'
   link: 'https://link.springer.com/article/10.1007/s00778-019-00583-8'
-  publisher: 'Springer'
+  publisher: 'VLDB J'
   title: 'Efficient Processing of Moving Collective Spatial Keyword Queries'
 - authors:
     - Qian Ma
@@ -384,7 +384,7 @@
     - Ge Yu
   date: '2019-04-08'
   link: 'https://ieeexplore.ieee.org/document/8731477'
-  publisher: 'IEEE'
+  publisher: 'IEEE Trans. Knowl. Data Eng.'
   title: 'Order-Sensitive Imputation for Clustered Missing Values'
 - authors:
     - Qian Ma
@@ -393,7 +393,7 @@
     - Ge Yu
   date: '2019-01-01'
   link: 'https://ieeexplore.ieee.org/document/8330055'
-  publisher: 'IEEE'
+  publisher: 'IEEE Trans. Knowl. Data Eng.'
   title: 'Order-Sensitive Imputation for Clustered Missing Values'  
 - authors:
     - Yu Gu
@@ -403,7 +403,7 @@
     - Ge Yu
   date: '2018-11-01'
   link: 'https://ieeexplore.ieee.org/document/8307089'
-  publisher: 'IEEE'
+  publisher: 'IEEE Trans. Knowl. Data Eng.'
   title: 'Approximate Order-Sensitive k-NN Queries over Correlated High-Dimensional Data'
 - authors:
     - Zhigang Wang
@@ -413,7 +413,7 @@
     - Ge Yu
   date: '2018-08-01'
   link: 'https://ieeexplore.ieee.org/document/8300647'
-  publisher: 'IEEE'
+  publisher: 'IEEE Trans. Parallel Distributed Syst.'
   title: 'A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments'
 - authors:
     - Chuanwen Li
@@ -423,7 +423,7 @@
     - Qingxu Deng
   date: '2018-04-16'
   link: 'https://ieeexplore.ieee.org/document/8509305'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'A GPU Accelerated Update Efficient Index for kNN Queries in Road Networks'
 - authors:
     - Ning Wang
@@ -434,7 +434,7 @@
     - Ge Yu
   date: '2017-04-19'
   link: 'https://ieeexplore.ieee.org/document/7930027'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'PrivSuper: a Superset-First Approach to Frequent Itemset Mining under Differential Privacy'
 - authors:
     - Yu Gu
@@ -445,7 +445,7 @@
     - Rui Zhang
   date: '2017-08-19'
   link: 'https://ieeexplore.ieee.org/document/7929918'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'The Moving k Diversified Nearest Neighbor Query'
 - authors:
     - Zhigang Wang
@@ -455,7 +455,7 @@
     - Jeffrey Xu Yu
   date: '2016-06-14'
   link: 'https://dl.acm.org/doi/10.1145/2882903.2882938'
-  publisher: 'ACM'
+  publisher: 'SIGMOD'
   title: 'Hybrid Pulling/Pushing for I/O-Efficient Distributed and Iterative Graph Computing'
 - authors:
     - Yu Gu
@@ -466,7 +466,7 @@
     - Rui Zhang
   date: '2016-08-01'
   link: 'https://ieeexplore.ieee.org/document/7517340'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'The Moving k Diversified Nearest Neighbor Query'
 - authors:
     - Chuanwen Li
@@ -477,7 +477,7 @@
     - Qingxu Deng
   date: '2016-05-16'
   link: 'https://ieeexplore.ieee.org/document/7498339'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'INSQ: An Influential Neighbor Set Based Moving kNN Query Processing System'
 - authors:
     - Jia Xu
@@ -488,7 +488,7 @@
     - Zhenjie Zhang
   date: '2016-05-16'
   link: 'https://ieeexplore.ieee.org/document/7498372'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'Efficient Similarity Join Based on Earth Mover’s Distance Using MapReduce'
 - authors:
     - Jia Xu
@@ -499,7 +499,7 @@
     - Zhenjie Zhang
   date: '2015-08-01'
   link: 'https://ieeexplore.ieee.org/document/7056549'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'Efficient Similarity Join Based on Earth Mover’s Distance Using MapReduce'
 - authors:
     - Chuanwen Li
@@ -510,7 +510,7 @@
     - Wang Yi
   date: '2014-10-01'
   link: 'https://dl.acm.org/doi/abs/10.14778/2735471.2735473'
-  publisher: 'VLDB Endowment'
+  publisher: 'Proc. VLDB Endow.'
   title: 'Processing Moving kNN Queries Using Influential Neighbor Sets'
 - authors:
     - Yu Gu
@@ -519,7 +519,7 @@
     - Ge Yu
   date: '2014-05-01'
   link: 'https://ieeexplore.ieee.org/document/6570474'
-  publisher: 'IEEE'
+  publisher: 'IEEE Trans. Knowl. Data Eng.'
   title: 'Effective and Efficient Clustering Methods for Correlated Probabilistic Graphs'
 - authors:
     - Chuanfei Xu
@@ -529,7 +529,7 @@
     - Ge Yu
   date: '2013-04-08'
   link: 'https://ieeexplore.ieee.org/document/6544823'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'Interval Reverse Nearest Neighbor Queries on Uncertain Data with Markov Correlations'
 - authors:
     - Jia Xu
@@ -541,7 +541,7 @@
     - Zhenjie Zhang
   date: '2012-04-01'
   link: 'https://ieeexplore.ieee.org/abstract/document/6228176'
-  publisher: 'IEEE'
+  publisher: 'ICDE'
   title: 'EUDEMON: A System for Online Video Frame Copy Detection by Earth Mover''s Distance'
 
 
