@@ -2,7 +2,7 @@
 title: 团队介绍
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: 关于我们
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}指导教师
