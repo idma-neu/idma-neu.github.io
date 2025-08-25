@@ -1,8 +1,8 @@
 ---
-title: Communication
+title: 国际交流
 nav:
   order: 5
-  tooltip: International communication
+  tooltip: 会议与公派留学
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}国际交流
