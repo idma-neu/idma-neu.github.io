@@ -1,11 +1,11 @@
 ---
-title: 承担项目
+title: 科研项目
 nav:
   order: 2
-  tooltip: 项目资助情况
+  tooltip: 科研项目
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}项目资助
+# {% include icon.html icon="fa-solid fa-wrench" %}科研项目
 
 {% include section.html %}
 
