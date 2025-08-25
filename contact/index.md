@@ -1,5 +1,5 @@
 ---
-title:联系我们
+title: 联系我们
 nav:
   order: 6
   tooltip: 联系方式
