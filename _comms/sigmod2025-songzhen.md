@@ -1,6 +1,7 @@
 ---
-title: ACM SIGMOD/PODS International Conference on Management of Data（SIGMOD 2025）, Santiago, Chile.
+title: ACM SIGMOD/PODS International Conference on Management of Data(SIGMOD 2025), Santiago, Chile.
 image: images/comm/sigmod2025-songzhen.png
+data: 2024-06-29
 ---
 <!-- excerpt start -->
 宋振本次汇报的论文题目为“SWASH: A Flexible Communication Framework with Sliding-Window-Based Cache Sharing for Scalable DGNN Training”。
