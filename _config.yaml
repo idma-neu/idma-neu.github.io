@@ -45,7 +45,7 @@ collections:
     output: false
   # generate page for each coomunication
   comms:
-    output: false
+    output: true
 
 # jekyll plugins
 plugins:
