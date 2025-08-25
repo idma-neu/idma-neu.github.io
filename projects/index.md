@@ -5,7 +5,7 @@ nav:
   tooltip: 科研项目
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}科研项目
+# {% include icon.html icon="fa-solid fa-wrench" %}科研项目（国家级）
 
 {% include section.html %}
 
