@@ -8,5 +8,5 @@ image: images/comm/sigmod2024-songzhen.png
 {%
   include figure.html
   image="images/comm/sigmod2024-songzhen.png"
-  caption="宋振在SIGMOD 2024上做论文报告"
+  width="70%"
 %}

@@ -10,4 +10,5 @@ image: images/comm/sigmod2024-songzhen.png
 {%
   include figure.html
   image="images/comm/sigmod2025-songzhen-1.png"
+  width="100%"
 %}
