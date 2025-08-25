@@ -4,6 +4,6 @@ image: images/team/liuzhenghao.jpg
 role: cooperative-investigator
 description: 副教授、博士生导师
 order: 2
-link: http://faculty.neu.edu.cn/liuzhenghao/zh_CN/index.htm
-home-page: http://faculty.neu.edu.cn/liuzhenghao/zh_CN/index.htm
+link: "http://faculty.neu.edu.cn/liuzhenghao/zh_CN/index.htm"
+home-page: "http://faculty.neu.edu.cn/liuzhenghao/zh_CN/index.htm"
 ---
