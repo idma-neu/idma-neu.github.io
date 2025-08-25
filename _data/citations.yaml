@@ -499,7 +499,7 @@
     - Zhenjie Zhang
   date: '2015-08-01'
   link: 'https://ieeexplore.ieee.org/document/7056549'
-  publisher: 'ICDE'
+  publisher: 'IEEE Trans. Knowl. Data Eng.'
   title: 'Efficient Similarity Join Based on Earth Mover’s Distance Using MapReduce'
 - authors:
     - Chuanwen Li
