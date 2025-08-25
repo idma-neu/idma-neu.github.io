@@ -43,7 +43,7 @@ collections:
   # generate page for each post
   posts:
     output: false
-  # generate page for each coomunication
+  # generate page for each communication
   comms:
     output: true
 
