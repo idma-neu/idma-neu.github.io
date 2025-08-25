@@ -9,6 +9,10 @@ nav:
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
+# {% include icon.html icon="fa-solid fa-users" %}合作导师
+
+{% include list.html data="members" component="portrait" filter="role == 'cooperative-investigator'" %}
+
 # {% include icon.html icon="fa-solid fa-users" %}毕业生
 
 {% include list.html data="members" component="portrait" filter="role == 'phd2019'" %}
