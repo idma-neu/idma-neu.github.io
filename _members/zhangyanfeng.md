@@ -4,7 +4,5 @@ image: images/team/zhangyanfeng.jpg
 role: cooperative-investigator
 description: 教授、博士生导师
 order: 1
-links:
-  home-page: https://neuzhangyf.github.io/
-  email: zhangyf@mail.neu.edu.cn
+link: https://neuzhangyf.github.io/
 ---
