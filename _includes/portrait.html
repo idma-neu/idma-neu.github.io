@@ -14,9 +14,9 @@
   {% unless home_page %}
     {% assign home_page = member.home-page %}
   {% endunless %}
-  <!-- DEBUG: member.name = {{ member.name }} -->
-  <!-- DEBUG: home_page = {{ home_page }} -->
-  <!-- DEBUG: member.links = {{ member.links | jsonify }} -->
+  DEBUG: member.name = {{ member.name }}
+  DEBUG: home_page = {{ home_page }}
+  DEBUG: member.links = {{ member.links | jsonify }}
   <a
     {% if home_page %}
       href="{{ home_page }}"
