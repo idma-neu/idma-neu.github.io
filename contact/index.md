@@ -1,8 +1,8 @@
 ---
-title: Contact
+title:联系我们
 nav:
   order: 6
-  tooltip: Email
+  tooltip: 联系方式
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
