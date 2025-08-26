@@ -1,5 +1,5 @@
 ---
 name: 宋振
-image: images/songzhen.jpg
+image: images/team/songzhen.jpg
 role: phd2019
 ---
