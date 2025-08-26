@@ -292,15 +292,6 @@
   publisher: 'KDD'
   title: 'PlanRanker: Towards Personalized Ranking of Train Transfer Plans'
 - authors:
-    - Yang Song
-    - Yu Gu
-    - Rui Zhang
-    - Ge Yu
-  date: '2022-03-01'
-  link: 'https://ieeexplore.ieee.org/document/9086806'
-  publisher: 'ICDE'
-  title: 'BrePartition: Optimized High-Dimensional kNN Search With Bregman Distances'
-- authors:
     - Yu Gu
     - Kaiqiang Yu
     - Zhen Song
@@ -528,6 +519,74 @@
   link: 'https://ieeexplore.ieee.org/abstract/document/6228176'
   publisher: 'ICDE'
   title: 'EUDEMON: A System for Online Video Frame Copy Detection by Earth Mover''s Distance'
+  - authors:
+    - Chuanfei Xu
+    - Yu Gu
+    - Roger Zimmermann
+    - Shukuan Lin
+    - Ge Yu
+  date: '2013'
+  link: 'https://ieeexplore.ieee.org/document/6269878'
+  publisher: 'IEEE Trans. Knowl. Data Eng.'
+  title: 'Group Location Selection Queries over Uncertain Objects'
+- authors:
+    - Chuanwen Li
+    - Yu Gu
+    - Jianzhong Qi
+    - Ge Yu
+    - Rui Zhang
+    - Qingxu Deng
+  date: '2016'
+  link: 'https://ieeexplore.ieee.org/document/7498339'
+  publisher: 'ICDE'
+  title: 'INSQ: An influential neighbor set based moving kNN query processing system'
+- authors:
+    - Qian Ma
+    - Yu Gu
+    - Wang-Chien Lee
+    - Ge Yu
+  date: '2019'
+  link: 'https://ieeexplore.ieee.org/document/8731477'
+  publisher: 'ICDE'
+  title: 'Order-Sensitive Imputation for Clustered Missing Values (Extended Abstract)'
+- authors:
+    - Yumeng Song
+    - Yu Gu
+    - Tianyi Li
+    - Yushuai Li
+    - Christian S. Jensen
+    - Ge Yu
+  date: '2024'
+  link: 'https://dl.acm.org/doi/10.14778/3705829.3705858'
+  publisher: 'VLDB'
+  title: 'Quantifying Point Contributions: A Lightweight Framework for Efficient and Effective Query-Driven Trajectory Simplification'
+- authors:
+    - Xin Ai
+    - Hao Yuan
+    - Zeyu Ling
+    - Qiange Wang
+    - Yanfeng Zhang
+    - Zhenbo Fu
+    - Chaoyi Chen
+    - Yu Gu
+    - Ge Yu
+  date: '2024'
+  link: 'https://dl.acm.org/doi/10.14778/3705829.3705837'
+  publisher: 'VLDB'
+  title: 'NeutronTP: Load-Balanced Distributed Full-Graph GNN Training with Tensor Parallelism'
+- authors:
+    - Mingyan Wu
+    - Zhenghao Liu
+    - Yukun Yan
+    - Xinze Li
+    - Shi Yu
+    - Zheni Zeng
+    - Yu Gu
+    - Ge Yu
+  date: '2025'
+  link: 'https://arxiv.org/abs/2502.17888'
+  publisher: 'ACL'
+  title: 'RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts'
 
 
 
