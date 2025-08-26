@@ -1,5 +1,5 @@
 ---
 name: 饶恒
-image: images/raoheng.jpg
+image: images/team/raoheng.jpg
 role: phd2025
 ---
