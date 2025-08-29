@@ -519,7 +519,7 @@
   link: 'https://ieeexplore.ieee.org/abstract/document/6228176'
   publisher: 'ICDE'
   title: 'EUDEMON: A System for Online Video Frame Copy Detection by Earth Mover''s Distance'
-  - authors:
+- authors:
     - Chuanfei Xu
     - Yu Gu
     - Roger Zimmermann
