@@ -15,7 +15,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}博士毕业生
 
-{% include list.html data="members" component="portrait" filter="role == 'phd2019'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phdFinished'" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}博士研究生
 
