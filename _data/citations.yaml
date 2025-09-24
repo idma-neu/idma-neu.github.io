@@ -525,7 +525,7 @@
     - Roger Zimmermann
     - Shukuan Lin
     - Ge Yu
-  date: '2013'
+  date: '2013-01-01'
   link: 'https://ieeexplore.ieee.org/document/6269878'
   publisher: 'IEEE Trans. Knowl. Data Eng.'
   title: 'Group Location Selection Queries over Uncertain Objects'
@@ -536,7 +536,7 @@
     - Ge Yu
     - Rui Zhang
     - Qingxu Deng
-  date: '2016'
+  date: '2016-01-01'
   link: 'https://ieeexplore.ieee.org/document/7498339'
   publisher: 'ICDE'
   title: 'INSQ: An influential neighbor set based moving kNN query processing system'
@@ -545,7 +545,7 @@
     - Yu Gu
     - Wang-Chien Lee
     - Ge Yu
-  date: '2019'
+  date: '2019-01-01'
   link: 'https://ieeexplore.ieee.org/document/8731477'
   publisher: 'ICDE'
   title: 'Order-Sensitive Imputation for Clustered Missing Values (Extended Abstract)'
@@ -556,7 +556,7 @@
     - Yushuai Li
     - Christian S. Jensen
     - Ge Yu
-  date: '2024'
+  date: '2024-01-01'
   link: 'https://dl.acm.org/doi/10.14778/3705829.3705858'
   publisher: 'VLDB'
   title: 'Quantifying Point Contributions: A Lightweight Framework for Efficient and Effective Query-Driven Trajectory Simplification'
@@ -570,7 +570,7 @@
     - Chaoyi Chen
     - Yu Gu
     - Ge Yu
-  date: '2024'
+  date: '2024-01-01'
   link: 'https://dl.acm.org/doi/10.14778/3705829.3705837'
   publisher: 'VLDB'
   title: 'NeutronTP: Load-Balanced Distributed Full-Graph GNN Training with Tensor Parallelism'
@@ -583,7 +583,7 @@
     - Zheni Zeng
     - Yu Gu
     - Ge Yu
-  date: '2025'
+  date: '2025-01-01'
   link: 'https://arxiv.org/abs/2502.17888'
   publisher: 'ACL'
   title: 'RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts'
