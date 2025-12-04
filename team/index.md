@@ -37,5 +37,3 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'master2024'" %}
 
 {% include list.html data="members" component="portrait" filter="role == 'master2025'" %}
-
-{% include section.html %}
