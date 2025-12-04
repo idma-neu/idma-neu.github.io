@@ -51,6 +51,7 @@ collections:
   # generate page for each communication
   comms:
     output: true
+  # generate page for each communication
   projects:
     output: false
 
