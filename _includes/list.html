@@ -17,7 +17,7 @@
   {% if years.size > 1 %}
     {% unless include.hide_date %}
       {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
-    {% endunless %}
+    <!-- {% endunless %} -->
     {% assign data = data | sort: "date" | reverse %}
   {% else %}
     {% assign data = data | sort: "order" %}
