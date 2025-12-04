@@ -13,6 +13,4 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}科研项目（国家级已结题）
 
-{% include section.html %}
-
 {% include list.html data="projects" component="post-excerpt" filter="role == 'project-finished'" %}
