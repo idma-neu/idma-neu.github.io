@@ -45,7 +45,7 @@ collections:
   # generate page for each member
   members:
     output: false
-  # generate page for each post
+  # generate page for each post false
   posts:
     output: false
   # generate page for each communication
