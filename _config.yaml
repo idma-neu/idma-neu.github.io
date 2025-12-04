@@ -35,6 +35,10 @@ defaults:
       type: "comms"
     values:
       layout: comm
+  - scope:
+      type: "projects"
+    values:
+      layout: projects
 
 collections:
   # generate page for each member
