@@ -15,7 +15,9 @@
   {% assign data = year.items %}
 
   {% if years.size > 1 %}
-    {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
+    {% unless include.hide_date %}
+      {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
+    {% endunless %}
     {% assign data = data | sort: "date" | reverse %}
   {% else %}
     {% assign data = data | sort: "order" %}
@@ -56,6 +58,7 @@
       type=d.type
       url=d.url
       width=d.width
+      hide_date=include.hide_date
     %}
   {% endfor %}
 {% endfor %}
