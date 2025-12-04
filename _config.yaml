@@ -35,10 +35,11 @@ defaults:
       type: "comms"
     values:
       layout: comm
+  # markdown files in /_projects
   - scope:
       type: "projects"
     values:
-      layout: projects
+      layout: project
 
 collections:
   # generate page for each member
@@ -50,6 +51,8 @@ collections:
   # generate page for each communication
   comms:
     output: true
+  projects:
+    output: false
 
 # jekyll plugins
 plugins:
