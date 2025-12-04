@@ -17,11 +17,7 @@
   {% if years.size > 1 %}
     {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
     {% assign data = data | sort: "date" | reverse %}
-  <!-- {% if years.size > 1 %}
-    {% unless include.hide_date %}
-      {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
-    {% endunless %} -->
-    <!-- {% assign data = data | sort: "date" | reverse %} -->
+
   {% else %}
     {% assign data = data | sort: "order" %}
   {% endif %}
@@ -65,4 +61,10 @@
   {% endfor %}
 {% endfor %}
 
-      <!-- hide_date=include.hide_date -->
+  <!-- {% if years.size > 1 %}
+    {% unless include.hide_date %}
+      {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
+    {% endunless %} -->
+    <!-- {% assign data = data | sort: "date" | reverse %} -->
+      
+    <!-- hide_date=include.hide_date -->
