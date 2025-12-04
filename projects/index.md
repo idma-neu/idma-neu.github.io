@@ -9,4 +9,6 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="projects" component="post-excerpt" %}
+{% include list.html data="projects" component="post-excerpt" filter="role == 'project-doing'" %}
+
+{% include list.html data="projects" component="post-excerpt" filter="role == 'project-finished'" %}

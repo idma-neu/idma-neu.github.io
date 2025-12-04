@@ -73,6 +73,14 @@ master2025:
   icon: fa-solid fa-graduation-cap
   description: Master student
 
+project-doing:
+  icon: fa-solid fa-graduation-cap
+  description: project
+
+project-finished:
+  icon: fa-solid fa-graduation-cap
+  description: Finished project
+
 # general
 
 link:
