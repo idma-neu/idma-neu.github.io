@@ -9,4 +9,5 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="posts" component="post-excerpt" hide_date=true %}
+{% include list.html data="posts" component="post-excerpt"  %}
+<!-- hide_date=true -->

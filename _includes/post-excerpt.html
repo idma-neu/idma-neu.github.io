@@ -32,13 +32,13 @@
     <div class="post-excerpt-text">
       <a href="{{ url }}">{{ title }}</a>
 
-      {% assign published_date = post.date %}
+      <!-- {% assign published_date = post.date %}
       {% assign updated_date = post.last_modified_at %}
       {% if include.hide_date %}
         {% assign published_date = nil %}
         {% assign updated_date = nil %}
-      {% endif %}
-      
+      {% endif %} -->
+
       {%
         include post-info.html
         author=post.author
