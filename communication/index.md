@@ -9,4 +9,4 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="comms" component="post-excerpt" %}
+{% include list.html data="comms" component="post-excerpt" dense=true %}
