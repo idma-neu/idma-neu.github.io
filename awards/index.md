@@ -9,4 +9,4 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="awards" component="post-excerpt" dense=true %}
+{% include list.html data="awards" component="post-excerpt" dense=true suppress_dates=true %}
