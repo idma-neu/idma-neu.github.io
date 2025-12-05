@@ -9,8 +9,8 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="projects" component="post-excerpt" filter="role == 'project-doing'" %}
+{% include list.html data="projects" component="post-excerpt" filter="role == 'project-doing'" dense=true %}
 
 # {% include icon.html icon="fa-solid fa-wrench" %}科研项目（国家级已结题）
 
-{% include list.html data="projects" component="post-excerpt" filter="role == 'project-finished'" %}
+{% include list.html data="projects" component="post-excerpt" filter="role == 'project-finished'" dense=true %}
