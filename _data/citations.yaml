@@ -12,6 +12,50 @@
   publisher: 'SIGMOD'
   title: 'SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training'
 - authors:
+    - Chunyu Cao
+    - Xin Ai
+    - Qiange Wang
+    - Yanfeng Zhang
+    - Zhenbo Fu
+    - Hao Yuan
+    - Mingyi Cao
+    - Chaoyi Chen
+    - Yingyou Wen
+    - Yu Gu
+    - Ge Yu
+  date: '2025-06-18'
+  link: 'https://doi.org/10.1145/3749175'
+  publisher: 'SIGMOD'
+  title: 'NeutronHeter: Optimizing Distributed Graph Neural Network Training for Heterogeneous Clusters'
+- authors:
+    -	Zhigang Wang
+    - Gongtai Sun
+    - Ning Wang
+    - Lixin Gao
+    - Chuanfei Xu
+    - Yu Gu
+    - Ge Yu
+    - Zhihong Tian
+  date: '2025-01-01'
+  link: 'https://doi.org/10.1109/TC.2025.3612730'
+  publisher: 'IEEE Transactions on Computers'
+  title: 'Lightweight Graph Partitioning Enhanced by Implicit Knowledge'
+- authors:
+    - Zhigang Wang
+    - Yizhen Yu
+    - Mingxin Li
+    - Jian Lou
+    - Ning Wang
+    - Yu Gu
+    - Shen Su
+    - Yuan Liu
+    - Hui Jiang
+    - Zhihong Tian
+  date: '2025-01-01'
+  link: 'https://doi.org/10.1109/TKDE.2025.3613659'
+  publisher: 'IEEE Trans. Knowl. Data Eng.'
+  title: 'FELEMN: Toward Efficient Feature-Level Machine Unlearning for Exact Privacy Protection'
+- authors:
     - Zhenbo Fu
     - Xin Ai
     - Qiange Wang
