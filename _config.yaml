@@ -39,7 +39,7 @@ defaults:
   - scope:
       type: "projects"
     values:
-      layout: project
+      layout: post
 # 【新增】为 awards 设置默认布局（虽然 output: false，但作为数据源建议加上）
   - scope:
       type: "awards"
@@ -62,7 +62,7 @@ collections:
   # 【新增】新增 awards 集合
   awards:
     output: false  # 不需要为每个奖项生成单独的页面，只在列表中显示
-    
+
 # jekyll plugins
 plugins:
   - jekyll-spaceship
