@@ -1,17 +1,4 @@
 - authors:
-    - Zhen Song
-    - Yu Gu
-    - Tianyi Li
-    - Yushuai Li
-    - Qing Sun
-    - Yanfeng Zhang
-    - Christian S. Jensen
-    - Ge Yu
-  date: '2025-06-18'
-  link: 'https://dl.acm.org/doi/10.1145/3725360'
-  publisher: 'SIGMOD'
-  title: 'SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training'
-- authors:
     - Chunyu Cao
     - Xin Ai
     - Qiange Wang
@@ -55,6 +42,19 @@
   link: 'https://doi.org/10.1109/TKDE.2025.3613659'
   publisher: 'IEEE Trans. Knowl. Data Eng.'
   title: 'FELEMN: Toward Efficient Feature-Level Machine Unlearning for Exact Privacy Protection'
+- authors:
+    - Zhen Song
+    - Yu Gu
+    - Tianyi Li
+    - Yushuai Li
+    - Qing Sun
+    - Yanfeng Zhang
+    - Christian S. Jensen
+    - Ge Yu
+  date: '2025-06-18'
+  link: 'https://dl.acm.org/doi/10.1145/3725360'
+  publisher: 'SIGMOD'
+  title: 'SWASH: A Flexible Communication Framework with Sliding Window-Based Cache Sharing for Scalable DGNN Training'
 - authors:
     - Zhenbo Fu
     - Xin Ai
