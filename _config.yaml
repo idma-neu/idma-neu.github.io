@@ -24,17 +24,17 @@ defaults:
   - scope:
       type: "members"
     values:
-      layout: member
+      layout: members
   # markdown files in /_posts
   - scope:
       type: "posts"
     values:
-      layout: post
+      layout: posts
   # markdown files in /_comm   
   - scope:
       type: "comms"
     values:
-      layout: comm
+      layout: comms
   # markdown files in /_projects
   - scope:
       type: "projects"
