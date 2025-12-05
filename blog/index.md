@@ -9,4 +9,4 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="posts" component="post-excerpt" %}
+{% include list.html data="awards" component="post-excerpt" %}
