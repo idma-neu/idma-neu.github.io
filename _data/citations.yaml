@@ -15,7 +15,7 @@
   publisher: 'SIGMOD'
   title: 'NeutronHeter: Optimizing Distributed Graph Neural Network Training for Heterogeneous Clusters'
 - authors:
-    -	Zhigang Wang
+    - Zhigang Wang
     - Gongtai Sun
     - Ning Wang
     - Lixin Gao
