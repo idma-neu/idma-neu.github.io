@@ -24,7 +24,7 @@ defaults:
   - scope:
       type: "members"
     values:
-      layout: members
+      layout: member
   # markdown files in /_posts
   - scope:
       type: "posts"
