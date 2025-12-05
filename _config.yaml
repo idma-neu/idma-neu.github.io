@@ -29,7 +29,7 @@ defaults:
   - scope:
       type: "posts"
     values:
-      layout: project
+      layout: post
   # markdown files in /_comm   
   - scope:
       type: "comms"
