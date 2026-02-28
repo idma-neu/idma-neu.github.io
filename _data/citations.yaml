@@ -1,4 +1,52 @@
 - authors:
+    - Yishu Wang
+    - Jinlong Chu
+    - Ye Yuan
+    - Yu Gu
+    - Lianpeng Qiao
+  date: '2026-01-01'
+  link: ''
+  publisher: 'ICDE'
+  title: 'Lightweight 2-Hop Labels for Reachability Queries on Large-Scale Graphs'
+- authors:
+    - Ning Wang
+    - Huaibei Li
+    - Shen Su
+    - Yu Gu
+    - Ge Yu
+    - Zhigang Wang
+    - Dawei Zhao
+    - Hui Lu
+    - Zhihong Tian
+  date: '2026-01-01'
+  link: ''
+  publisher: 'ICDE'
+  title: 'C2graph: A Compression-Collaboration Algorithm for CPU-GPU Hybrid Weighted Graph Traversals'
+- authors:
+    - Zhen Song
+    - Hao Li
+    - Tianyi Li
+    - Yu Gu
+    - Yushuai Li
+    - Yanfeng Zhang
+    - Christian Jensen
+    - Lizhen Cui
+    - Ge Yu
+  date: '2026-01-01'
+  link: ''
+  publisher: 'SIGMOD'
+  title: 'FastGNAS: Accelerating and Scaling Graph Neural Architecture Search on Multi-GPUs via Ring-Based Model Migration'
+- authors:
+    - Pengyi Zhang
+    - Pengxuan Ma
+    - Chaopeng Guo
+    - Yu Gu
+    - Jie Song
+  date: '2026-01-01'
+  link: ''
+  publisher: 'IEEE Trans. Knowl. Data Eng.'
+  title: 'Consensus and Computing Integration for Processing Transactional Graphs in Consortium Blockchain'
+- authors:
     - Haidong Xin
     - Zhenghao Liu
     - Sen Mei
