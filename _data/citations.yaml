@@ -1,4 +1,32 @@
 - authors:
+    - Haidong Xin
+    - Zhenghao Liu
+    - Sen Mei
+    - Yukun Yan
+    - Shi Yu
+    - Shuo Wang
+    - Zulong Chen
+    - Yu Gu
+    - Ge Yu
+    - Chenyan Xiong
+  date: '2026-01-01'
+  link: ''
+  publisher: 'KDD'
+  title: 'LISRec: Modeling User Preferences with Learned Item Shortcuts for Sequential Recommendation'
+- authors:
+    - Mingyi Cao
+    - Chunyu Cao
+    - Yanfeng Zhang
+    - Zhenbo Fu
+    - Xin Ai
+    - Qiange Wang
+    - Yu Gu
+    - Ge Yu
+  date: '2025-07-13'
+  link: 'https://www.vldb.org/pvldb/vol19/p56-cao.pdf'
+  publisher: 'Proc. VLDB Endow.'
+  title: 'NeutronCloud: Resource-Aware Distributed GNN Training in Fluctuating Cloud Environments'
+- authors:
     - Chunyu Cao
     - Xin Ai
     - Qiange Wang
