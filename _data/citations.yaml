@@ -29,7 +29,7 @@
     - Yu Gu
     - Yushuai Li
     - Yanfeng Zhang
-    - Christian Jensen
+    - Christian S. Jensen
     - Lizhen Cui
     - Ge Yu
   date: '2026-01-01'
@@ -37,13 +37,29 @@
   publisher: 'SIGMOD'
   title: 'FastGNAS: Accelerating and Scaling Graph Neural Architecture Search on Multi-GPUs via Ring-Based Model Migration'
 - authors:
+    - Chunyu Cao
+    - Xin Ai
+    - Qiange Wang
+    - Yanfeng Zhang
+    - Zhenbo Fu
+    - Hao Yuan
+    - Mingyi Cao
+    - Chaoyi Chen
+    - Yingyou Wen
+    - Yu Gu
+    - Ge Yu
+  date: '2026-01-01'
+  link: 'https://dl.acm.org/doi/10.1145/3749175'
+  publisher: 'SIGMOD'
+  title: 'NeutronHeter: Optimizing Distributed Graph Neural Network Training for Heterogeneous Clusters'
+- authors:
     - Pengyi Zhang
     - Pengxuan Ma
     - Chaopeng Guo
     - Yu Gu
     - Jie Song
   date: '2026-01-01'
-  link: ''
+  link: 'https://ieeexplore.ieee.org/document/11203875'
   publisher: 'IEEE Trans. Knowl. Data Eng.'
   title: 'Consensus and Computing Integration for Processing Transactional Graphs in Consortium Blockchain'
 - authors:
@@ -62,6 +78,128 @@
   publisher: 'KDD'
   title: 'LISRec: Modeling User Preferences with Learned Item Shortcuts for Sequential Recommendation'
 - authors:
+    - Qiuyang Li
+    - Qian Ma
+    - Zhongming Yao
+    - Shikai Guo
+    - Yu Gu
+    - Ge Yu
+    - Tianyi Li
+  date: '2026-01-01'
+  link: ''
+  publisher: 'KDD'
+  title: 'ReCATS: Replay-Free Continual Anomaly Detection for Non Stationary Multivariate Time Series'
+- authors:
+    - Qian Ma
+    - Linfei Dai
+    - Zhongming Yao
+    - Yu Gu
+    - Tianyi Li
+    - Christian S. Jensen
+    - Ge Yu
+  date: '2026-01-01'
+  link: ''
+  publisher: 'PVLDB'
+  title: 'Multimodal Knowledge Graph Completion via Relation-Aware Negative Sampling with Diffusion-Based Interpolation'
+- authors:
+    - Shaohua Duan
+    - Pengcheng Huang
+    - Xinze Li
+    - Zhenghao Liu
+    - Xiaoyuan Yi
+    - Yukun Yan
+    - Shuo Wang
+    - Yu Gu
+    - Ge Yu
+    - Maosong Sun
+  date: '2026-01-01'
+  link: 'https://arxiv.org/abs/2508.13993'
+  publisher: 'ACL'
+  title: 'Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization'
+- authors:
+    - Yifan Ji
+    - Zhipeng Xu
+    - Zhenghao Liu
+    - Zulong Chen
+    - Qian Zhang
+    - Zhibo Yang
+    - Junyang Lin
+    - Yu Gu
+    - Ge Yu
+    - Maosong Sun
+  date: '2026-01-01'
+  link: 'https://arxiv.org/abs/2602.07038'
+  publisher: 'ACL'
+  title: 'UNIKIE-BENCH: Benchmarking Large Multimodal Models for Key Information Extraction in Visual Documents'
+- authors:
+    - Fan Li
+    - Yu Gu
+    - Zhigang Wang
+    - Fangling Leng
+    - Zhenghao Liu
+    - Ge Yu
+  date: '2026-01-01'
+  link: ''
+  publisher: 'ACL'
+  title: 'Towards Efficient and Effective Diffusion Language Model Inference via Semantic-Aware Adaptive Denoising'
+- authors:
+    - Zhenghao Liu
+    - Zhuoyang Wu
+    - Xinze Li
+    - Yukun Yan
+    - Shuo Wang
+    - Zulong Chen
+    - Yu Gu
+    - Ge Yu
+    - Maosong Sun
+  date: '2026-01-01'
+  link: 'https://arxiv.org/abs/2601.10064'
+  publisher: 'ACL'
+  title: 'Long-Chain Reasoning Distillation via Adaptive Prefix Alignment'
+- authors:
+    - Hao Yang
+    - Yifan Ji
+    - Zhipeng Xu
+    - Zhenghao Liu
+    - Yukun Yan
+    - Zulong Chen
+    - Shuo Wang
+    - Yu Gu
+    - Ge Yu
+  date: '2026-01-01'
+  link: 'https://arxiv.org/abs/2604.07419'
+  publisher: 'SIGIR'
+  title: 'ReAlign: Optimizing the Visual Document Retriever with Reasoning-Guided Fine-Grained Alignment'
+- authors:
+    - Chunyi Peng
+    - Zhipeng Xu
+    - Zhenghao Liu
+    - Yishan Li
+    - Yukun Yan
+    - Shuo Wang
+    - Yu Gu
+    - Minghe Yu
+    - Ge Yu
+    - Maosong Sun
+  date: '2026-01-01'
+  link: 'https://arxiv.org/abs/2505.22095'
+  publisher: 'SIGIR'
+  title: 'Mixture-of-Retrieval Experts for Reasoning-Guided Multimodal Knowledge Exploitation'
+- authors:
+    - Heng Rao
+    - Jason Zipeng Zhang
+    - Yu Gu
+    - Zhenghao Liu
+    - Ge Yu
+    - Jeffrey Su
+    - Yang Cao
+    - Fan Yang
+    - Minghan Chen
+  date: '2026-01-01'
+  link: ''
+  publisher: 'ICML'
+  title: 'A Regime-Aware Trajectory Prediction Framework for 1000+ Systems Biology Models'
+- authors:
     - Mingyi Cao
     - Chunyu Cao
     - Yanfeng Zhang
@@ -72,24 +210,8 @@
     - Ge Yu
   date: '2025-07-13'
   link: 'https://www.vldb.org/pvldb/vol19/p56-cao.pdf'
-  publisher: 'Proc. VLDB Endow.'
+  publisher: 'PVLDB'
   title: 'NeutronCloud: Resource-Aware Distributed GNN Training in Fluctuating Cloud Environments'
-- authors:
-    - Chunyu Cao
-    - Xin Ai
-    - Qiange Wang
-    - Yanfeng Zhang
-    - Zhenbo Fu
-    - Hao Yuan
-    - Mingyi Cao
-    - Chaoyi Chen
-    - Yingyou Wen
-    - Yu Gu
-    - Ge Yu
-  date: '2025-06-18'
-  link: 'https://doi.org/10.1145/3749175'
-  publisher: 'SIGMOD'
-  title: 'NeutronHeter: Optimizing Distributed Graph Neural Network Training for Heterogeneous Clusters'
 - authors:
     - Zhigang Wang
     - Gongtai Sun
@@ -146,7 +268,7 @@
     - Ge Yu
   date: '2025-02-01'
   link: 'https://www.vldb.org/pvldb/vol18/p1705-fu.pdf'
-  publisher: 'Proc. VLDB Endow.'
+  publisher: 'PVLDB'
   title: 'NeutronTask: Scalable and Efficient Multi-GPU GNN Training with Task Parallelism'
 - authors:
     - Jie Song
@@ -209,7 +331,7 @@
     - Ge Yu
   date: '2024-02-01'
   link: 'https://dl.acm.org/doi/abs/10.14778/3648160.3648167'
-  publisher: 'Proc. VLDB Endow.'
+  publisher: 'PVLDB'
   title: 'Comprehensive Evaluation of GNN Training Systems: A Data Management Perspective'
 - authors:
     - Xin Ai
@@ -222,7 +344,7 @@
     - Ge Yu
   date: '2024-08-01'
   link: 'https://dl.acm.org/doi/abs/10.14778/3659437.3659453'
-  publisher: 'Proc. VLDB Endow.'
+  publisher: 'PVLDB'
   title: 'NeutronOrch: Rethinking Sample-based GNN Training under CPU-GPU Heterogeneous Environments'
 - authors:
     - Zhen Song
@@ -235,7 +357,7 @@
     - Ge Yu
   date: '2024-07-01'
   link: 'https://dl.acm.org/doi/abs/10.14778/3681954.3682008'
-  publisher: 'Proc. VLDB Endow.'
+  publisher: 'PVLDB'
   title: 'DynaHB: A Communication-Avoiding Asynchronous Distributed Framework with Hybrid Batches for Dynamic GNN Training'
 - authors:
     - Yumeng Song
@@ -337,7 +459,7 @@
     - Ge Yu
   date: '2023-11-01'
   link: 'https://dl.acm.org/doi/abs/10.14778/3632093.3632108'
-  publisher: 'Proc. VLDB Endow.'
+  publisher: 'PVLDB'
   title: 'NeutronStream: A Dynamic GNN Training Framework with Sliding Window for Graph Streams'
 - authors:
     - Yuhang Su
@@ -606,7 +728,7 @@
     - Wang Yi
   date: '2014-10-01'
   link: 'https://dl.acm.org/doi/abs/10.14778/2735471.2735473'
-  publisher: 'Proc. VLDB Endow.'
+  publisher: 'PVLDB'
   title: 'Processing Moving kNN Queries Using Influential Neighbor Sets'
 - authors:
     - Yu Gu
@@ -650,17 +772,6 @@
   publisher: 'IEEE Trans. Knowl. Data Eng.'
   title: 'Group Location Selection Queries over Uncertain Objects'
 - authors:
-    - Chuanwen Li
-    - Yu Gu
-    - Jianzhong Qi
-    - Ge Yu
-    - Rui Zhang
-    - Qingxu Deng
-  date: '2016-01-01'
-  link: 'https://ieeexplore.ieee.org/document/7498339'
-  publisher: 'ICDE'
-  title: 'INSQ: An influential neighbor set based moving kNN query processing system'
-- authors:
     - Qian Ma
     - Yu Gu
     - Wang-Chien Lee
@@ -678,7 +789,7 @@
     - Ge Yu
   date: '2024-01-01'
   link: 'https://dl.acm.org/doi/10.14778/3705829.3705858'
-  publisher: 'VLDB'
+  publisher: 'PVLDB'
   title: 'Quantifying Point Contributions: A Lightweight Framework for Efficient and Effective Query-Driven Trajectory Simplification'
 - authors:
     - Xin Ai
@@ -692,7 +803,7 @@
     - Ge Yu
   date: '2024-01-01'
   link: 'https://dl.acm.org/doi/10.14778/3705829.3705837'
-  publisher: 'VLDB'
+  publisher: 'PVLDB'
   title: 'NeutronTP: Load-Balanced Distributed Full-Graph GNN Training with Tensor Parallelism'
 - authors:
     - Mingyan Wu
@@ -707,6 +818,3 @@
   link: 'https://arxiv.org/abs/2502.17888'
   publisher: 'ACL'
   title: 'RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts'
-
-
-
