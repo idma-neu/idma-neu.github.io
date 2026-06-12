@@ -45,7 +45,7 @@ nav:
 {% assign alumni_by_year = site.data.alumni | group_by_exp: "item", "item.date | date: '%Y'" | sort: "name" | reverse %}
 {% for year_group in alumni_by_year %}
 {% if year_group.name != "" %}
-### {{ year_group.name }} 届
+### {{ year_group.name }}年毕业生
 {% endif %}
 {% assign sorted = year_group.items | sort: "order" %}
 {% for person in sorted %}
