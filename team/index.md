@@ -37,3 +37,19 @@ nav:
 {% include list.html data="members" component="portrait" filter="role == 'master2024'" %}
 
 {% include list.html data="members" component="portrait" filter="role == 'master2025'" %}
+
+{% include section.html %}
+
+# {% include icon.html icon="fa-solid fa-briefcase" %}硕士毕业生去向
+
+{% assign alumni_by_year = site.data.alumni | group_by_exp: "item", "item.date | date: '%Y'" | sort: "name" | reverse %}
+{% for year_group in alumni_by_year %}
+{% if year_group.name != "" %}
+### {{ year_group.name }} 届
+{% endif %}
+{% assign sorted = year_group.items | sort: "order" %}
+{% for person in sorted %}
+{% assign dest_type = site.data.types[person.destination_type] %}
+- **{{ person.name }}**{% if person.destination %}：{{ person.destination }}{% if dest_type %} {% include icon.html icon=dest_type.icon %}{% endif %}{% endif %}
+{% endfor %}
+{% endfor %}

@@ -1,0 +1,61 @@
+# 格式说明：
+#   date: 毕业日期，格式 YYYY-01-01（年份会自动用于分组标题）
+#   destination: 去向单位 + 职位
+#   destination_type: academia / industry / overseas / government
+#   thesis: 毕业论文题目（可选）
+#   remark: 补充说明（获奖等，可选）
+#   order: 排序权重，越小越靠前
+
+- name: 王颢岚
+  degree: 硕士
+  date: 2026-06-10
+  destination: 航空工业成都飞机工业（集团）有限责任公司
+  destination_type: industry
+  thesis: ~
+  remark: ~
+  order: 1
+
+- name: 李炜卓
+  degree: 硕士
+  date: 2026-06-10
+  destination: 腾讯科技（深圳）有限公司
+  destination_type: industry
+  thesis: ~
+  remark: ~
+  order: 2
+
+- name: 吕昊东
+  degree: 硕士
+  date: 2026-06-10
+  destination: 国网河南省电力公司
+  destination_type: industry
+  thesis: ~
+  remark: ~
+  order: 3
+
+- name: 刑佳义
+  degree: 硕士
+  date: 2026-06-10
+  destination: 中国航发沈阳发动机研究所
+  destination_type: industry
+  thesis: ~
+  remark: ~
+  order: 4
+
+- name: 郭辛锐
+  degree: 硕士
+  date: 2026-06-10
+  destination: ~
+  destination_type: ~
+  thesis: ~
+  remark: ~
+  order: 5
+
+- name: 赵俊峰
+  degree: 硕士
+  date: 2026-06-10
+  destination: 北京五八信息技术有限公司
+  destination_type: industry
+  thesis: ~
+  remark: ~
+  order: 6

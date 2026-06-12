@@ -73,6 +73,10 @@ master2025:
   icon: fa-solid fa-graduation-cap
   description: Master student
 
+masterFinished:
+  icon: fa-solid fa-graduation-cap
+  description: 硕士毕业生
+
 project-doing:
   icon: fa-solid fa-graduation-cap
   description: project
@@ -275,3 +279,20 @@ package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+
+# 毕业生去向类别
+academia:
+  icon: fa-solid fa-building-columns
+  description: 高校/科研院所
+
+industry:
+  icon: fa-solid fa-building
+  description: 企业就职
+
+overseas:
+  icon: fa-solid fa-plane
+  description: 出国深造
+
+government:
+  icon: fa-solid fa-landmark
+  description: 政府部门/事业单位
