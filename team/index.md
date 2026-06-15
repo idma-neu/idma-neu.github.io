@@ -40,11 +40,21 @@ nav:
 
 {% include section.html %}
 
+# {% include icon.html icon="fa-solid fa-briefcase" %}博士毕业生去向
+
+{% assign phd_list = site.data.alumni | where_exp: "item", "item.degree == '博士'" | sort: "order" %}
+{% for person in phd_list %}
+{% assign dest_type = site.data.types[person.destination_type] %}
+- **{{ person.name }}**{% if person.destination %}：{{ person.destination }}{% if dest_type %} {% include icon.html icon=dest_type.icon %}{% endif %}{% endif %}{% if person.remark %}（{{ person.remark }}）{% endif %}
+{% endfor %}
+
+{% include section.html %}
+
 # {% include icon.html icon="fa-solid fa-briefcase" %}硕士毕业生去向
 
-{% assign alumni_by_year = site.data.alumni | group_by_exp: "item", "item.date | date: '%Y'" | sort: "name" | reverse %}
-{% for year_group in alumni_by_year %}
-{% if year_group.name != "" %}
+{% assign master_by_year = site.data.alumni | where_exp: "item", "item.degree == '硕士'" | group_by_exp: "item", "item.date | date: '%Y'" | sort: "name" | reverse %}
+{% for year_group in master_by_year %}
+{% if year_group.name and year_group.name != "" %}
 ### {{ year_group.name }}年毕业生
 {% endif %}
 {% assign sorted = year_group.items | sort: "order" %}

@@ -6,6 +6,127 @@
 #   remark: 补充说明（获奖等，可选）
 #   order: 排序权重，越小越靠前
 
+# ========== 博士毕业生 ==========
+
+- name: 许嘉
+  degree: 博士
+  date: ~
+  destination: 广州大学，教授
+  destination_type: academia
+  thesis: ~
+  remark: CCF优博
+  order: 1
+
+- name: 王艳秋
+  degree: 博士
+  date: ~
+  destination: 深圳职业技术大学（前：华为云）
+  destination_type: academia
+  thesis: ~
+  remark: ~
+  order: 2
+
+- name: 李淼
+  degree: 博士
+  date: ~
+  destination: 华为云，初创首席架构师
+  destination_type: industry
+  thesis: ~
+  remark: ~
+  order: 3
+
+- name: 庞俊
+  degree: 博士
+  date: ~
+  destination: 武汉科技大学，副教授
+  destination_type: academia
+  thesis: ~
+  remark: ~
+  order: 4
+
+- name: 王志刚
+  degree: 博士
+  date: ~
+  destination: 广州大学，副教授（前：中国海洋大学副教授）
+  destination_type: academia
+  thesis: ~
+  remark: CCF优博
+  order: 5
+
+- name: 王宁
+  degree: 博士
+  date: ~
+  destination: 广州大学，副教授（前：中国海洋大学副教授）
+  destination_type: academia
+  thesis: ~
+  remark: ~
+  order: 6
+
+- name: 马茜
+  degree: 博士
+  date: ~
+  destination: 大连海事大学，副教授
+  destination_type: academia
+  thesis: ~
+  remark: ~
+  order: 7
+
+- name: 许鸿斐
+  degree: 博士
+  date: ~
+  destination: 华为
+  destination_type: industry
+  thesis: ~
+  remark: ~
+  order: 8
+
+- name: 宋扬
+  degree: 博士
+  date: ~
+  destination: 东北大学，讲师
+  destination_type: academia
+  thesis: ~
+  remark: ~
+  order: 9
+
+- name: 苏宇航
+  degree: 博士
+  date: ~
+  destination: 沈阳工业大学，讲师
+  destination_type: academia
+  thesis: ~
+  remark: ~
+  order: 10
+
+- name: 郭娜
+  degree: 博士
+  date: ~
+  destination: 沈阳航空航天大学，讲师
+  destination_type: academia
+  thesis: ~
+  remark: ~
+  order: 11
+
+- name: 宋振
+  degree: 博士
+  date: 2025-01-01
+  destination: 山东大学，副研究员
+  destination_type: academia
+  thesis: ~
+  remark: SIGMOD中国优博、CCF信息系统专委优博
+  order: 12
+
+- name: 宋雨萌
+  degree: 博士
+  date: 2024-01-01
+  destination: 丹麦奥尔堡大学，助理教授
+  destination_type: academia
+  thesis: ~
+  remark: ~
+  order: 13
+
+# ========== 硕士毕业生 ==========
+
 - name: 王颢岚
   degree: 硕士
   date: 2026-06-10
@@ -13,7 +134,7 @@
   destination_type: industry
   thesis: ~
   remark: ~
-  order: 1
+  order: 14
 
 - name: 李炜卓
   degree: 硕士
@@ -22,7 +143,7 @@
   destination_type: industry
   thesis: ~
   remark: ~
-  order: 2
+  order: 15
 
 - name: 吕昊东
   degree: 硕士
@@ -31,7 +152,7 @@
   destination_type: industry
   thesis: ~
   remark: ~
-  order: 3
+  order: 16
 
 - name: 刑佳义
   degree: 硕士
@@ -40,7 +161,7 @@
   destination_type: industry
   thesis: ~
   remark: ~
-  order: 4
+  order: 17
 
 - name: 郭辛锐
   degree: 硕士
@@ -49,7 +170,7 @@
   destination_type: industry
   thesis: ~
   remark: ~
-  order: 5
+  order: 18
 
 - name: 赵俊峰
   degree: 硕士
@@ -58,4 +179,4 @@
   destination_type: industry
   thesis: ~
   remark: ~
-  order: 6
+  order: 19
