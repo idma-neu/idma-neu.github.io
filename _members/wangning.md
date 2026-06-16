@@ -2,6 +2,6 @@
 name: 王宁
 image: images/team/wangning.jpg
 role: phdFinished
-description: 广州大学，副教授
+description: 中国海洋大学副教授→广州大学副教授
 order: 6
 ---
