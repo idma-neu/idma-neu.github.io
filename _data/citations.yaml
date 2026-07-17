@@ -1,4 +1,30 @@
 - authors:
+    - Qian Ma
+    - Yanyang Li
+    - Mei Bai
+    - Xite Wang
+    - Shikai Guo
+    - Yu Gu
+    - Ge Yu
+  date: '2026-01-01'
+  link: ''
+  publisher: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
+  title: 'EnsDiffAD: Ensemble Diffusion Models for Multivariate Time Series Anomaly Detection'
+- authors:
+    - Fan Li
+    - Yu Gu
+    - Zhigang Wang
+    - Zhenghao Liu
+    - Fangling Leng
+    - Xiaohua Li
+    - Fangfang Li
+    - Ge Yu
+    - Yangzhao Xiang
+  date: '2026-01-01'
+  link: ''
+  publisher: 'ACM MM'
+  title: 'Attention Switch is All You Need: Collaborative Token and KV Compression for Long Video Inference in Hybrid MLLMs'
+- authors:
     - Yishu Wang
     - Jinlong Chu
     - Ye Yuan
@@ -60,7 +86,7 @@
     - Jie Song
   date: '2026-01-01'
   link: 'https://ieeexplore.ieee.org/document/11203875'
-  publisher: 'IEEE Trans. Knowl. Data Eng.'
+  publisher: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
   title: 'Consensus and Computing Integration for Processing Transactional Graphs in Consortium Blockchain'
 - authors:
     - Haidong Xin
@@ -238,7 +264,7 @@
     - Zhihong Tian
   date: '2025-01-01'
   link: 'https://doi.org/10.1109/TKDE.2025.3613659'
-  publisher: 'IEEE Trans. Knowl. Data Eng.'
+  publisher: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
   title: 'FELEMN: Toward Efficient Feature-Level Machine Unlearning for Exact Privacy Protection'
 - authors:
     - Zhen Song
@@ -369,7 +395,7 @@
     - Ge Yu
   date: '2024-03-22'
   link: 'https://ieeexplore.ieee.org/document/10478209'
-  publisher: 'IEEE Trans. Knowl. Data Eng.'
+  publisher: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
   title: 'CHGNN: A Semi-Supervised Contrastive Hypergraph Learning Network'
 - authors:
     - Tianshuo Zhou
@@ -470,7 +496,7 @@
     - Ge Yu
   date: '2023-06-01'
   link: 'https://ieeexplore.ieee.org/document/9739081'
-  publisher: 'IEEE Trans. Knowl. Data Eng.'
+  publisher: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
   title: 'Efficient Subhypergraph Matching Based on Hyperedge Features'
 - authors:
     - Zhigang Wang
@@ -543,7 +569,7 @@
     - Rui Zhang
   date: '2022-07-01'
   link: 'https://ieeexplore.ieee.org/document/9187569'
-  publisher: 'IEEE Trans. Knowl. Data Eng.'
+  publisher: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
   title: 'Distributed Hypergraph Processing Using Intersection Graphs'
 - authors:
     - Zhen Song
@@ -582,7 +608,7 @@
     - Zhiqiang Wei
   date: '2021-05-01'
   link: 'https://ieeexplore.ieee.org/abstract/document/8890918'
-  publisher: 'IEEE Trans. Knowl. Data Eng.'
+  publisher: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
   title: 'HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling'
 - authors:
     - Hongfei Xu
@@ -602,7 +628,7 @@
     - Ge Yu
   date: '2019-04-08'
   link: 'https://ieeexplore.ieee.org/document/8731477'
-  publisher: 'IEEE Trans. Knowl. Data Eng.'
+  publisher: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
   title: 'Order-Sensitive Imputation for Clustered Missing Values'
 - authors:
     - Qian Ma
@@ -611,7 +637,7 @@
     - Ge Yu
   date: '2019-01-01'
   link: 'https://ieeexplore.ieee.org/document/8330055'
-  publisher: 'IEEE Trans. Knowl. Data Eng.'
+  publisher: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
   title: 'Order-Sensitive Imputation for Clustered Missing Values'  
 - authors:
     - Yu Gu
@@ -621,7 +647,7 @@
     - Ge Yu
   date: '2018-11-01'
   link: 'https://ieeexplore.ieee.org/document/8307089'
-  publisher: 'IEEE Trans. Knowl. Data Eng.'
+  publisher: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
   title: 'Approximate Order-Sensitive k-NN Queries over Correlated High-Dimensional Data'
 - authors:
     - Zhigang Wang
@@ -717,7 +743,7 @@
     - Zhenjie Zhang
   date: '2015-08-01'
   link: 'https://ieeexplore.ieee.org/document/7056549'
-  publisher: 'IEEE Trans. Knowl. Data Eng.'
+  publisher: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
   title: 'Efficient Similarity Join Based on Earth Mover’s Distance Using MapReduce'
 - authors:
     - Chuanwen Li
@@ -737,7 +763,7 @@
     - Ge Yu
   date: '2014-05-01'
   link: 'https://ieeexplore.ieee.org/document/6570474'
-  publisher: 'IEEE Trans. Knowl. Data Eng.'
+  publisher: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
   title: 'Effective and Efficient Clustering Methods for Correlated Probabilistic Graphs'
 - authors:
     - Chuanfei Xu
@@ -769,7 +795,7 @@
     - Ge Yu
   date: '2013-01-01'
   link: 'https://ieeexplore.ieee.org/document/6269878'
-  publisher: 'IEEE Trans. Knowl. Data Eng.'
+  publisher: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
   title: 'Group Location Selection Queries over Uncertain Objects'
 - authors:
     - Qian Ma
