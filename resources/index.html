@@ -619,6 +619,54 @@
 </div>
   </section>
 
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <!--
+  <background></background>
+  <dark></dark>
+  <size></size>
+-->
+
+<h2 id="大模型高效推理">大模型高效推理</h2>
+
+<div class="citation-container">
+  <div class="citation">
+    <div class="citation-text">
+      <i class="icon fa-solid fa-file-lines"></i>
+      <a class="citation-title" href="https://aclanthology.org/2026.acl-long.819/">Towards Efficient and Effective Diffusion Language Model Inference via Semantic-Aware Adaptive Denoising</a>
+      <div class="citation-description">
+        该工作针对扩散语言模型迭代去噪过程中大量冗余计算导致的推理效率问题，提出语义感知自适应去噪框架 Ada-DLM。该方法通过建模 token 置信度的多步演化轨迹，动态识别语义已收敛的 token 并提前停止其计算，同时结合硬件友好的稀疏执行机制，在保持生成质量的同时显著提升推理效率，为高效扩散语言模型推理与部署提供了新的技术路径。
+      </div>
+      <div class="citation-details">
+        <a href="https://aclanthology.org/2026.acl-long.819/" aria-label="ACL 2026" title="ACL 2026"><span class="icon resource-link-emoji" aria-hidden="true">📄</span> ACL 2026</a>
+         · 
+        <a href="https://github.com/fan58085-art/Ada-DLM" aria-label="GitHub: Ada-DLM" title="GitHub: Ada-DLM"><i class="icon fa-brands fa-github"></i> Ada-DLM</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="citation-container">
+  <div class="citation">
+    <div class="citation-text">
+      <i class="icon fa-solid fa-file-lines"></i>
+      <a class="citation-title" href="https://openreview.net/forum?id=kY6lHqSE6a">Attention Switch is All You Need: Collaborative Token and KV Compression for Long Video Inference in Hybrid MLLMs</a>
+      <div class="citation-description">
+        该工作面向 Mamba-Transformer 混合多模态大模型在长视频推理中的高计算与显存开销问题，提出基于 Attention Switch 的协同压缩框架 DeltaInfer。该方法利用 Mamba 原生的 Δ 参数作为轻量级重要性信号，通过帧级语义压缩与 token 级 KV 计算跳过，协同减少 Transformer 的计算量与 KV Cache 开销，在几乎不损失精度的情况下实现最高效的长视频推理。
+      </div>
+      <div class="citation-details">
+        <a href="https://openreview.net/forum?id=kY6lHqSE6a" aria-label="ACM MM 2026" title="ACM MM 2026"><span class="icon resource-link-emoji" aria-hidden="true">📄</span> ACM MM 2026</a>
+         · 
+        <a href="https://github.com/fan58085-art/DeltaInfer" aria-label="GitHub: DeltaInfer" title="GitHub: DeltaInfer"><i class="icon fa-brands fa-github"></i> DeltaInfer</a>
+      </div>
+    </div>
+  </div>
+</div>
+  </section>
+
 
     </main>
     
