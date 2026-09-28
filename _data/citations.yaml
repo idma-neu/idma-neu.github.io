@@ -21,7 +21,7 @@
     - Ge Yu
     - Yangzhao Xiang
   date: '2026-01-01'
-  link: ''
+  link: 'https://openreview.net/forum?id=kY6lHqSE6a'
   publisher: 'ACM MM'
   title: 'Attention Switch is All You Need: Collaborative Token and KV Compression for Long Video Inference in Hybrid MLLMs'
 - authors:
@@ -165,7 +165,7 @@
     - Zhenghao Liu
     - Ge Yu
   date: '2026-01-01'
-  link: ''
+  link: 'https://aclanthology.org/2026.acl-long.819/'
   publisher: 'ACL'
   title: 'Towards Efficient and Effective Diffusion Language Model Inference via Semantic-Aware Adaptive Denoising'
 - authors:
